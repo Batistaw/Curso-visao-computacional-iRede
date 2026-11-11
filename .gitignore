@@ -1,0 +1,26 @@
+# Python e Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Dataset e arquivos grandes
+dataset/
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.mp4
+
+# Documentos sensíveis (PDFs do curso)
+*.pdf
+
+# Chaves, tokens e credenciais
+*API-KEY*
+*TOKEN*
+*SECRET*
+credentials.json
+Atividade 3/Exemplo_Sal_Pimenta/U2C1O1T3/U2C1O1P3.ipynb
+Atividade 3/JFLAP7.1.jar
